@@ -1,18 +1,18 @@
 # 📘 Assignment: [Assignment Title]
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 [Brief description of what the student will build or accomplish in this assignment]
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️	[Task 1 Title]
 
-#### Description
+#### Descrição
 
 [Description what needs to be done by the student for this task]
 
-#### Requirements
+#### Requisitos
 
 Completed program should:
 
@@ -23,11 +23,11 @@ Completed program should:
 
 ### 🛠️	[Task 2 Title]
 
-#### Description
+#### Descrição
 
 [Description what needs to be done by the student for this task]
 
-#### Requirements
+#### Requisitos
 
 Completed program should:
 
