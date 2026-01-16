@@ -23,9 +23,9 @@ Agora vamos criar instruções direcionadas especificamente para arquivos de tar
 
 1. Primeiro, vamos examinar o template de tarefa existente. Abra `templates/assignment-template.md` para ver a estrutura que queremos que todas as tarefas sigam.
 
-1. Crie um novo arquivo chamado `.github/instructions/assignments.instructions.md`
+2. Crie um novo arquivo chamado `.github/instructions/assignments.instructions.md`
 
-1. Adicione o seguinte conteúdo para definir padrões de formatação de tarefas. Isso também garantirá que sejam aplicados automaticamente para cada solicitação de chat para arquivos Markdown (`.md`) no diretório `assignments`.
+3. Adicione o seguinte conteúdo para definir padrões de formatação de tarefas. Isso também garantirá que sejam aplicados automaticamente para cada solicitação de chat para arquivos Markdown (`.md`) no diretório `assignments`.
 
    ```markdown
    ---
@@ -61,9 +61,9 @@ Agora vamos criar instruções direcionadas especificamente para arquivos de tar
 
 1. Abra o arquivo `assignments/games-in-python/README.md` no VS Code. Esta tarefa não corresponde a todas as convenções que você configurou como professor.
 
-1. Reserve um momento para revisar a estrutura atual deste arquivo de tarefa. Note como ela difere da estrutura do template que você examinou anteriormente. Você também pode ver como ela aparece atualmente na aba **Site Preview**.
+2. Reserve um momento para revisar a estrutura atual deste arquivo de tarefa. Note como ela difere da estrutura do template que você examinou anteriormente. Você também pode ver como ela aparece atualmente na aba **Site Preview**.
 
-1. Com o arquivo de tarefa aberto, pergunte ao Copilot no modo `Agent` para atualizar a estrutura da tarefa:
+3. Com o arquivo de tarefa aberto, pergunte ao Copilot no modo `Agent` para atualizar a estrutura da tarefa:
 
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
@@ -71,18 +71,18 @@ Agora vamos criar instruções direcionadas especificamente para arquivos de tar
    > Atualize este arquivo de tarefa para seguir os padrões do projeto e estrutura do template
    > ```
 
-1. Observe como o Copilot referencia as instruções gerais do projeto e os arquivos de instruções específicos de tarefas.
+4. Observe como o Copilot referencia as instruções gerais do projeto e os arquivos de instruções específicos de tarefas.
 
    <img width="492" height="376" alt="screenshot of Copilot chat showing attached references" src="https://github.com/user-attachments/assets/dbf26be3-5940-4619-af4e-0a4380f16494" />
 
-1. Compare as mudanças sugeridas com a estrutura do arquivo original para ver como o Copilot aplicou suas instruções. Aplique as mudanças sugeridas e verifique como a tarefa atualizada agora aparece no **Site Preview**.
+5. Compare as mudanças sugeridas com a estrutura do arquivo original para ver como o Copilot aplicou suas instruções. Aplique as mudanças sugeridas e verifique como a tarefa atualizada agora aparece no **Site Preview**.
 
-1. Commit ambos os arquivos para a branch `main` e push suas mudanças para o GitHub.
+6. Commit ambos os arquivos para a branch `main` e push suas mudanças para o GitHub.
 
    - `.github/instructions/assignments.instructions.md`
    - `assignments/games-in-python/README.md`
 
-1. Aguarde a Mona preparar o próximo passo!
+7. Aguarde a Mona preparar o próximo passo!
 
 <details>
 <summary>Tendo problemas? 🤷</summary><br/>

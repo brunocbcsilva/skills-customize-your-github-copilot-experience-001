@@ -3,25 +3,31 @@
 
 ## 🎯 Objective
 
-Build a classic Hangman word-guessing game using Python to practice string manipulation, loops, conditionals, and random selection.
-
-Criar um jogo da forca usando Python para praticar manipulação de string, loops, condicionais, a seleção randomica.
+Students will learn the basics of data analysis using Python. They will load, explore, and analyze a dataset to extract meaningful insights.
 
 ## 📝 Tasks
 
-### 🛠️	Create Hangman Game
+### 🛠️ Data Loading and Exploration
 
 #### Description
-
-Create a Hangman game where players guess letters to reveal a hidden word before running out of attempts.
+Load a provided CSV dataset and perform basic exploration to understand its structure and contents.
 
 #### Requirements
-
 Completed program should:
 
-- Randomly select words from a predefined list
-- Accept letter guesses and validate input
-- Show current progress in underscores format (_ _ _)
-- Track and display incorrect guesses remaining
-- End when word is guessed correctly or attempts exhausted
-- Display appropriate win/lose messages
+- Load a CSV file using Python (e.g., with pandas)
+- Display the first 5 rows of the dataset
+- Show summary statistics (mean, median, etc.) for numeric columns
+
+
+### 🛠️ Data Visualization and Insights
+
+#### Description
+Create visualizations to help understand the data and summarize key findings.
+
+#### Requirements
+Completed program should:
+
+- Generate at least two different types of plots (e.g., histogram, scatter plot)
+- Identify and describe at least two insights or trends from the data
+- Save the plots as image files
