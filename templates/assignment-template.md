@@ -9,9 +9,11 @@
 ### 🛠️	[Task 1 Title]
 
 #### Description
+
 [Description what needs to be done by the student for this task]
 
 #### Requirements
+
 Completed program should:
 
 - [Requirement 1]
@@ -22,9 +24,11 @@ Completed program should:
 ### 🛠️	[Task 2 Title]
 
 #### Description
+
 [Description what needs to be done by the student for this task]
 
 #### Requirements
+
 Completed program should:
 
 - [Requirement 1]
